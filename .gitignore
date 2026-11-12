@@ -1,0 +1,9 @@
+# Runtime data, caches, saved settings/keys
+.macro_helper_cache/
+.macro_helper_local/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.sqlite3
